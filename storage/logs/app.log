@@ -1,0 +1,36 @@
+2025-11-22T21:39:33+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T21:39:33+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T21:40:04+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T21:40:04+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T21:40:04+01:00 SHUT Undefined variable $variavel_inexistente at C:\xampp\htdocs\PlugPlayShop\simple_test.php:10
+2025-11-22T21:40:32+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T21:40:32+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T21:41:00+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T21:41:00+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\config.php:69
+2025-11-22T22:18:39+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\test_mysql.php:49
+2025-11-22T22:18:39+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\test_mysql.php:74
+2025-11-22T22:18:39+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\test_mysql.php:49
+2025-11-22T22:18:39+01:00 ERR 2 mysqli::__construct(): (HY000/1045): Access denied for user 'hg457f15_plugplayshop_db'@'localhost' (using password: YES) at C:\xampp\htdocs\PlugPlayShop\test_mysql.php:74
+2025-11-22T22:18:39+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\test_mysql.php:49
+2025-11-22T22:18:39+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\test_mysql.php:74
+2025-11-27T01:34:31+01:00 ERR 2 Undefined array key "REQUEST_METHOD" at C:\xampp\htdocs\PlugPlayShop\classifieds.php:11
+2025-12-30T23:01:14+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:160
+2025-12-30T23:01:18+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:164
+2025-12-30T23:01:20+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:160
+2025-12-30T23:01:22+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:164
+2025-12-30T23:01:22+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\config.php:160
+2025-12-30T23:01:22+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\config.php:164
+2025-12-30T23:01:22+01:00 EXC Call to a member function query() on null at C:\xampp\htdocs\PlugPlayShop\debug_row.php:7
+2025-12-30T23:31:25+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:166
+2025-12-30T23:31:29+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:170
+2025-12-30T23:31:31+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:166
+2025-12-30T23:31:33+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:170
+2025-12-30T23:31:33+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\config.php:166
+2025-12-30T23:31:33+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\config.php:170
+2025-12-30T23:31:33+01:00 EXC Call to a member function query() on null at C:\xampp\htdocs\PlugPlayShop\inspect_categories.php:9
+2025-12-30T23:31:57+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:166
+2025-12-30T23:32:01+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:170
+2025-12-30T23:32:03+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:166
+2025-12-30T23:32:05+01:00 ERR 2 mysqli::__construct(): (HY000/2002): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente at C:\xampp\htdocs\PlugPlayShop\config.php:170
+2025-12-30T23:32:05+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\config.php:166
+2025-12-30T23:32:05+01:00 ERR 2 mysqli::__construct(): (HY000/2002): O endereço solicitado não é válido no contexto at C:\xampp\htdocs\PlugPlayShop\config.php:170

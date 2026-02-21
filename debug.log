@@ -1,0 +1,9 @@
+Iniciando teste em: 2025-11-22 21:57:41
+Carregando config.php...
+config.php carregado
+Tentando conectar ao banco...
+Conexão estabelecida
+Tentando inserir produto...
+✅ Produto inserido com sucesso! ID: 31
+Produto de teste removido
+Teste concluído com sucesso!
